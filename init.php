@@ -14,5 +14,5 @@ Config::load([
 ]);
 
 Autoloader::getInstance()->addAutoloadPath([
-    PRJ.'dal/',
+
 ]);
